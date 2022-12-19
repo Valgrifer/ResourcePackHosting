@@ -1,0 +1,6 @@
+name: '${project.name}'
+version: '${project.version}'
+main: fr.valgrifer.resourcepackhosting.ResourcePackHosting
+api-version: 1.16
+authors: [ Valgrifer ]
+description: '${project.description}'
